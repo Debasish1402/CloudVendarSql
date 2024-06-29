@@ -1,4 +1,4 @@
-package com.CloudVendarUsingJpaMysql.demo.Comtroller;
+package com.CloudVendarUsingJpaMysql.demo.Controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
